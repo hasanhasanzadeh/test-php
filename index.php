@@ -1,6 +1,5 @@
 <?php
-require 'debug.php';
-
+//require 'debug.php';
 function printArray($array){
     echo '[';
     foreach ($array as $key=>$item){
